@@ -1,0 +1,17 @@
+.btn{
+    background-color: #161c37ff;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    box-shadow: 8px 8px 9px rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover{
+    background: linear-gradient(#e42164ff, #ce1d38ff);
+    transition-duration: 3s;
+
+}

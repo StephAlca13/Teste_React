@@ -1,0 +1,22 @@
+.campo-texto{
+    margin: 1.5rem 0;
+    /* background: linear-gradient(black, #ff0066 20%, #0000cc 70%, black 100% ); */
+   
+}
+
+.campo-texto label{
+    display: block;
+    margin-bottom: .5rem;
+    font-size: 1.3rem;
+    
+}
+
+.campo-texto input{
+    width: 100%;
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    box-shadow: 8px 8px 9px rgba(0, 0, 0, 0.4);
+}

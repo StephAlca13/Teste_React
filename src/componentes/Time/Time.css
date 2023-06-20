@@ -1,0 +1,11 @@
+.time{
+    text-align: center;
+    padding: 2rem;
+    /* background-color: #cceeff; */
+}
+.time h3{
+    font-size: 1.5rem;
+    border-bottom: 3px solid;
+    display: inline-block;
+    padding-bottom: .5rem;
+}
